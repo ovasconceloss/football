@@ -12,7 +12,7 @@
 
 ## 🚀 Overview
 
-**SO2025** aims to offer an alternative for players who love football simulation but prefer a focused, high-performance experience. Designed for a **fast, native desktop environment**, with zero network dependencies for core gameplay, FB2025 focuses on **core mechanics** like:
+**FB2025** aims to offer an alternative for players who love football simulation but prefer a focused, high-performance experience. Designed for a **fast, native desktop environment**, with zero network dependencies for core gameplay, FB2025 focuses on **core mechanics** like:
 
   - Squad selection and player development
   - Simplified tactics (formations and mentality)
