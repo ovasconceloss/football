@@ -1,5 +1,4 @@
 pub mod core;
-pub mod database;
 pub mod infrastructure;
 
 #[cfg_attr(mobile, tauri::mobile_entry_point)]
