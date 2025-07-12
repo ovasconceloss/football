@@ -16,4 +16,8 @@ impl Save {
       created_at: chrono::Utc::now().to_rfc3339() 
     }
   }
+
+  pub fn is_name_valid(&self) -> bool {
+    !self.name.trim().is_empty() && self.name.len() <= 100
+  }
 }
