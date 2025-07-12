@@ -1,0 +1,5 @@
+CREATE TABLE saves (
+  uuid TEXT NOT NULL UNIQUE PRIMARY KEY AUTOINCREMENT,
+  name TEXT NOT NULL,
+  created_at TEXT NOT NULL DEFAULT (datetime('now'))
+);
